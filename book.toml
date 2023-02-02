@@ -1,0 +1,6 @@
+[book]
+authors = ["DanWhitney"]
+language = "en"
+multilingual = false
+src = "src"
+title = "TestStand"
